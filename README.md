@@ -1,4 +1,4 @@
-# TwitRed — Twitter + Reddit Clone (Android)
+# VibeLine (Android)
 
 This is a starter Android Studio project scaffold (Kotlin + Jetpack Compose) for a hybrid Twitter + Reddit app.
 
